@@ -1,0 +1,1 @@
+docker run --rm -p 9901:9901 -p 8000:8000 -t grpc_envoy
